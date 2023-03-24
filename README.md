@@ -150,7 +150,7 @@ console.log(hasil);
 
 Hasil yang dikeluarkan adalah :
 
-![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_1.jpg)
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/JS_2.jpg)
 
 ### 3. np.argwhere merupakan sebuah fungsi yang tersedia pada library numpy di bahasa pemrograman python. Fungsi tersebut akan mengembalikan sebuah array 2 dimensi yang berisikan index - index value pada array n-d yang tidak bernilai 0, lakukan pencarian secara mandiri untuk mengetahui lebih lanjut mengenai fungsi np.argwhere. Implementasikan fungsi tersebut pada bahasa pemrograman Javascript untuk input array 3 dimensi.
 
