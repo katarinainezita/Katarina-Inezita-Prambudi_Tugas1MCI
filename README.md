@@ -8,7 +8,7 @@ NRP : 5025211148
 
 # SQL
 
-Sebelum mengerjakan soal yang diberikan, wajib mengunduh dataset yang telah di siapkan [disini](https://drive.google.com/file/d/1Kr6bl-of_BD8uKSojAcZSG1JJkCzDihj/view). Setelah dataset diunduh, dapat membuat sebuah table dan melakukan insert pada table tersebut.
+Sebelum mengerjakan soal yang diberikan, wajib mengunduh dataset yang telah di siapkan [disini](https://drive.google.com/file/d/1Kr6bl-of_BD8uKSojAcZSG1JJkCzDihj/view). Setelah dataset diunduh, dapat membuat sebuah table dan melakukan insert pada table tersebut. Implementasi dilakukan pada live oracle berikut [sql](https://livesql.oracle.com/apex/livesql/s/ox1h6itwm3fyda04krjda21je).
 
 Untuk membuat sebuah table digunakan :
 ```
