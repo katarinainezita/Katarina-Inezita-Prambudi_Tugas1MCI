@@ -27,7 +27,7 @@ Untuk dapat mengubah data dari CSV ke SQL dapat menggunakan website [ini](https:
 
 ### 1. Tampilkan daftar nama dan ukt berdasarkan nominal ukt yang paling mahal! 
 
-![ScreenShot](https://raw.github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_1.jpg)
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_1.jpg)
 
 Untuk dapat menampilkan data seperti pada gambar diatas, digunakan :
 
