@@ -39,7 +39,7 @@ ORDER BY UKT DESC
 
 ### 2. Tampilkan daftar nama dan ukt berdasarkan nominal ukt yang paling mahal, jika ada ukt yang sama, urutkan berdasarkan nama mahasiswa secara alfabetikal. 
 
-![ScreenShot](https://raw.github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_2.jpg)
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_2.jpg)
 
 Untuk dapat menampilkan data seperti pada gambar diatas, digunakan :
 
@@ -51,9 +51,7 @@ ORDER BY UKT DESC, Nama ASC
 
 ### 3. Hitunglah jumlah mahasiswa yang memiliki ipk >= 3.5 dan berada di semester 8 
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-SQL_3
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_3.jpg)
 
 Untuk dapat menampilkan data seperti pada gambar diatas, digunakan :
 
@@ -65,9 +63,7 @@ WHERE IPK >= 3.5 AND Semester = 8
 
 ### 4. Tampilkan nama, ukt, dan golongan. Jika ukt mahasiswa kurang dari sama dengan 1 juta, maka masuk golongan "A". Jika ukt mahasiswa diatas 1 juta sampai denga 2 juta, maka masuk golongan "B" Jika ukt mahasiswa diatas 2 juta, maka masuk golongan "C".
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-SQL_4
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_4.jpg)
 
 Untuk dapat menampilkan data seperti pada gambar diatas, digunakan :
 
@@ -83,9 +79,7 @@ FROM data_mahasiswa
 
 ### 5. Tampilkan daftar nama, semester dan ipk berdasarkan ipk tertinggi tiap semester. Diurutkan berdasarkan semesternya. Jika ada yang nilainya sama, maka diurutkan berdasarkan alfabet.
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-SQL_5
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_5.jpg)
 
 Untuk dapat menampilkan data seperti pada gambar diatas, digunakan :
 
@@ -119,10 +113,7 @@ tampilkanPesan();
 
 Hasil yang dikeluarkan adalah :
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-JS_1
-
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/JS_1.jpg)
 
 ### 2. Buatlah 2 file dengan tujuan sebagai berikut:
 
@@ -159,9 +150,7 @@ console.log(hasil);
 
 Hasil yang dikeluarkan adalah :
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-JS_2
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/SQL_1.jpg)
 
 ### 3. np.argwhere merupakan sebuah fungsi yang tersedia pada library numpy di bahasa pemrograman python. Fungsi tersebut akan mengembalikan sebuah array 2 dimensi yang berisikan index - index value pada array n-d yang tidak bernilai 0, lakukan pencarian secara mandiri untuk mengetahui lebih lanjut mengenai fungsi np.argwhere. Implementasikan fungsi tersebut pada bahasa pemrograman Javascript untuk input array 3 dimensi.
 
@@ -314,9 +303,7 @@ function lulusSemester(callback) {
 
 Hasil yang dikeluarkan adalah :
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-JS_4(callback)
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/JS_4(callback).jpg)
 
 Untuk dapat menjalankan program diatas dengan menggunakan promise :
 ```
@@ -413,9 +400,7 @@ function lulusSemester4() {
 
 Hasil yang dikeluarkan adalah :
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-JS_4(promise)
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/JS_4(promise).jpg)
 
 Untuk dapat menjalankan program diatas dengan menggunakan async / await :
 ```
@@ -481,6 +466,4 @@ function lulusSemester4() {
 ```
 Hasil yang dikeluarkan adalah :
 
-![ScreenShot](https://raw.github.com/katarinainezita/Modul2_Probstat_5025211148/main/Screenshoot/Tabel1.jpg)
-
-JS_4(asyncawait)
+![App Screenshot](https://github.com/katarinainezita/Katarina-Inezita-Prambudi_Tugas1MCI/blob/main/Screenshoot/JS_4(asyncawait).jpg)
